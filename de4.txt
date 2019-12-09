@@ -1,0 +1,98 @@
+---- cau 1 ----
+- a)
+a = [];
+a(1) = 1;
+a(2) = 1;
+for i=3:10
+    a(i) = a(i-1) + a(i-2);
+end
+a
+
+- b)
+a = [];
+i=1;
+while(true)
+    n = input('input: ');
+    if(n==0) 
+        break;
+    end
+    a(i) = n;
+    i = i +1;
+end
+
+a
+
+tbcDuong = 0;
+tbcAm = 0;
+demDuong = 0;
+demAm = 0;
+for i=1:length(a)
+    if(a(i)<0)
+        tbcAm = tbcAm + a(i);
+        demAm = demAm + 1;
+    else
+        tbcDuong = tbcDuong + a(i);
+        demDuong = demDuong + 1;
+    end
+end
+fprintf("TBC duong: %f\n", tbcDuong/demDuong);
+fprintf("TBC am: %f\n", tbcAm/demAm);
+
+-c)
+a = rand(1, 5)
+tb = sum(a)/length(a)
+dem = 0;
+for i=1:length(a)
+    if(a(i)>tb)
+        break;
+    else
+        if(0.1<=a(i) && a(i)<=0.4)
+            dem = dem + 1;
+        end
+    end
+end
+dem
+
+---- cau 2 ----
+-a)
+function d = dsc(c)
+    d = [];
+    j = 1;
+    for i=1:length(c)-1
+        if(c(i)~=c(i+1))
+            d(j) = c(i);
+            d(j+1) = c(i+1);
+            j = j + 1;
+        end
+    end
+end
+
+- b)
+function d = rep(b, m)
+    b = [1 2 3];
+    m = [1 2];
+    d = [];
+    k = 1;
+    for i=1:length(b)
+        if(length(b)~=length(m))
+            fprintf("Do dai 2 mang khac nhau, break\n");
+            break;
+        else
+            for j=1:m(i)
+                d(k) = b(i);
+                k = k + 1;
+            end
+        end
+    end
+end
+
+---- cau 3 ----
+x = -10:0.05:10;
+y = -10:0.05:10;
+[x, y] = meshgrid(x, y);
+z = sin(y.^2-x)-cos(y-x.^2);
+mesh(z);
+legend('Face Z');
+xlabel('truc x');
+ylabel('truc y');
+zlabel('truc z');

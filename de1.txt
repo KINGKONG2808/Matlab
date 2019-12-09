@@ -1,0 +1,83 @@
+--- cau 1 ----
+a)
+x = 1:1:100;
+tong = 0;
+for i=1:length(x)
+    tong = tong + (-1).^(i-1)/3.^(i-1);
+end
+tong
+
+b)
+x = randi([-10 10], 6, 6)
+[m, n] = size(x);
+for i=1:m
+    for j=1:n
+        if(mod(x(i, j), 2)==1 && x(i, j)<0)
+            x(i, j) = 1;
+        end
+    end
+end
+x
+
+c)
+a = randi([-10 10], 6, 6)
+[m, n] = size(a);
+tg=[];
+for i=1:m
+    tongDong = 0;
+    for j=1:n
+        tongDong = tongDong + a(i, j);
+    end
+    tg(i) = tongDong;
+end
+localMax = 1;
+localMin = 1;
+for i=1:length(tg)
+    if(tg(i)>rMax)
+        localMax = i;
+    end
+    if(tg(i)<rMin)
+        localMin = i;
+    end
+end
+rTG = a(localMin,:);
+a(localMin,:) = a(localMax,:);
+a(localMax,:) = rTG;
+a
+
+--- cau 2 ----
+a)
+function ketqua = thaythe(a)
+    for i=1:length(a)
+        if(mod(a(i), 5)==0)
+            a(i) = 0;
+        end
+    end
+    a
+end
+
+b)
+function cau2b
+    function giaiThua = gt(i)
+        giaiThua = 1;
+        for j=1:i
+            giaiThua = giaiThua * j;
+        end
+    end
+    f = 1;
+    n = input('input n: ');
+    for i=1:n
+        f = f + 1/gt(i);
+    end
+    f
+end
+
+--- cau 3 ----
+x = -10:0.005:10;
+y = -10:0.005:10;
+a = input('input a: ');
+b = input('input b: ');
+[x, y] = meshgrid(x, y);
+z = x.^2/a.^2 - y.^2/b.^2;
+mesh(z);
+legend('Hyperbolic Paraboloid');
