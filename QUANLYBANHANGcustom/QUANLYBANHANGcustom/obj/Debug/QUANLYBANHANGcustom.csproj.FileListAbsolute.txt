@@ -1,0 +1,9 @@
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\bin\Debug\QUANLYBANHANGcustom.exe.config
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\bin\Debug\QUANLYBANHANGcustom.exe
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\bin\Debug\QUANLYBANHANGcustom.pdb
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\obj\Debug\QUANLYBANHANGcustom.csprojAssemblyReference.cache
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\obj\Debug\QUANLYBANHANGcustom.Form1.resources
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\obj\Debug\QUANLYBANHANGcustom.Properties.Resources.resources
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\obj\Debug\QUANLYBANHANGcustom.csproj.GenerateResource.cache
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\obj\Debug\QUANLYBANHANGcustom.exe
+C:\Users\vuhung\source\repos\QUANLYBANHANGcustom\QUANLYBANHANGcustom\obj\Debug\QUANLYBANHANGcustom.pdb
