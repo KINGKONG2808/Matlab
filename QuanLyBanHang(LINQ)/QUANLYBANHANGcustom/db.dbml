@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QUANLYBANHANGcustom" Class="dbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=VUHUNGA49E;Initial Catalog=QUANLYBANHANGcustom;Integrated Security=True" SettingsObjectName="QUANLYBANHANGcustom.Properties.Settings" SettingsPropertyName="QUANLYBANHANGcustomConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LoaiSP" Member="LoaiSPs">
+    <Type Name="LoaiSP">
+      <Column Name="ma_loai" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ten_loai" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SanPham" Member="SanPhams">
+    <Type Name="SanPham">
+      <Column Name="ma_sp" Type="System.String" DbType="NVarChar(200) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ten_sp" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ma_loai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="don_gia" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
