@@ -1,0 +1,8 @@
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\bin\Debug\QuanLyHang.exe
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\bin\Debug\QuanLyHang.pdb
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\obj\Debug\QuanLyHang.csprojAssemblyReference.cache
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\obj\Debug\QuanLyHang.Form1.resources
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\obj\Debug\QuanLyHang.Properties.Resources.resources
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\obj\Debug\QuanLyHang.csproj.GenerateResource.cache
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\obj\Debug\QuanLyHang.exe
+C:\Users\vuhung\source\repos\QuanLyHang\QuanLyHang\obj\Debug\QuanLyHang.pdb
