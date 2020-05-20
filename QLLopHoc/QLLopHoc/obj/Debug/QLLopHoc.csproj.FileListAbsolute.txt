@@ -1,0 +1,9 @@
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.exe.config
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.exe
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.pdb
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csprojAssemblyReference.cache
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.Home.resources
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.Properties.Resources.resources
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csproj.GenerateResource.cache
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.exe
+C:\Users\vuhung\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.pdb
