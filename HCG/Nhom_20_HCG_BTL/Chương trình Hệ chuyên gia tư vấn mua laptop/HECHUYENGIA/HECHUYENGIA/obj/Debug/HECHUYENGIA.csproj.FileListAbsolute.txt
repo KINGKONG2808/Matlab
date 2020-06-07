@@ -1,0 +1,210 @@
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe.config
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.pdb
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csprojResolveAssemblyReference.cache
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.Form1.resources
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLSuKien.resources
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.Properties.Resources.resources
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csproj.GenerateResource.Cache
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe.licenses
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.pdb
+D:\VSStudio2013\Project\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.fmrQLLuat.resources
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe.config
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.pdb
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.TuVanLapTop.resources
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLSuKien.resources
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.Properties.Resources.resources
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csproj.GenerateResource.Cache
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe.licenses
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.pdb
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csprojResolveAssemblyReference.cache
+E:\HOCTAP\HocKy6\HeChuyenGia\Nhom13-PM2K7\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLLuat.resources
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLLuat.resources
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.TuVanLapTop.resources
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLSuKien.resources
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.Properties.Resources.resources
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe.licenses
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.pdb
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe.config
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.pdb
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Data.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Office.v17.2.Core.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Utils.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraBars.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Images.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Data.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Office.v17.2.Core.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Utils.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraBars.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\Nhom13_HCG_KTPM2K7\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csproj.CopyComplete
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe.config
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.exe
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\HECHUYENGIA.pdb
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Data.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Office.v17.2.Core.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Utils.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraBars.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Images.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Data.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Office.v17.2.Core.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Utils.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraBars.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csprojAssemblyReference.cache
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLLuat.resources
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.TuVanLapTop.resources
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.frmQLSuKien.resources
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.Properties.Resources.resources
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csproj.GenerateResource.cache
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe.licenses
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.csproj.CopyComplete
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.exe
+\\Mac\Home\Documents\HCG\Nhom_20_HCG_BTL\Chương trình Hệ chuyên gia tư vấn mua laptop\HECHUYENGIA\HECHUYENGIA\obj\Debug\HECHUYENGIA.pdb
