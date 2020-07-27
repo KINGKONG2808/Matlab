@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\vuhung\source\repos\baithuchanh5\baithuchanh5\xml\convertdata5.xslt"?>
+<dsphieu xmlns="http://tempuri.org/data5.xsd">
+	<phieu>
+		<hoadon>HD001</hoadon>
+		<ngayban>2020-07-27</ngayban>
+		<loaihang>LH001</loaihang>
+		<hang>
+			<mahang>MH001</mahang>
+			<tenhang>Hang 1</tenhang>
+			<soluong>100</soluong>
+			<dongia>10000</dongia>
+			<thanhtien>1000000</thanhtien>
+		</hang>
+		<hang>
+			<mahang>MH002</mahang>
+			<tenhang>Hang 2</tenhang>
+			<soluong>200</soluong>
+			<dongia>10000</dongia>
+			<thanhtien>2000000</thanhtien>
+		</hang>
+		<hang>
+			<mahang>MH003</mahang>
+			<tenhang>Hang 3</tenhang>
+			<soluong>300</soluong>
+			<dongia>20000</dongia>
+			<thanhtien>6000000</thanhtien>
+		</hang>
+		<hang>
+			<mahang>MH004</mahang>
+			<tenhang>Hang 4</tenhang>
+			<soluong>200</soluong>
+			<dongia>10000</dongia>
+			<thanhtien>2000000</thanhtien>
+		</hang>
+		<hang>
+			<mahang>MH005</mahang>
+			<tenhang>Hang 5</tenhang>
+			<soluong>300</soluong>
+			<dongia>30000</dongia>
+			<thanhtien>9000000</thanhtien>
+		</hang>
+		<nguoigiao>NV01</nguoigiao>
+	</phieu>
+</dsphieu>

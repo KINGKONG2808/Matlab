@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\vuhung\source\repos\baithuchanh5\baithuchanh5\test\convert-web-form.xslt"?>
+<dscuonsach xmlns="http://tempuri.org/test-form.xsd">
+	<cuonsach masach="MS001">
+		<tensach>Sach 1</tensach>
+		<maxuatban>N001</maxuatban>
+		<nhaxuatban>NXB02</nhaxuatban>
+		<sotrang>500</sotrang>
+		<giatien>300</giatien>
+		<tacgia>
+			<hoten>Tac gia A</hoten>
+			<tuoi>40</tuoi>
+			<diachi>Ha Noi</diachi>
+			<dienthoai>036-631-0685</dienthoai>
+		</tacgia>
+		<tacgia>
+			<hoten>Tac gia B</hoten>
+			<tuoi>45</tuoi>
+			<diachi>Ha Noi</diachi>
+			<dienthoai>036-631-0685</dienthoai>
+		</tacgia>
+		<tacgia>
+			<hoten>Tac gia C</hoten>
+			<tuoi>40</tuoi>
+			<diachi>Hai Phong</diachi>
+			<dienthoai>036-631-0685</dienthoai>
+		</tacgia>
+	</cuonsach>
+
+	<cuonsach masach="MS002">
+		<tensach>Sach 2</tensach>
+		<maxuatban>N002</maxuatban>
+		<nhaxuatban>NXB02</nhaxuatban>
+		<sotrang>1000</sotrang>
+		<giatien>400</giatien>
+		<tacgia>
+			<hoten>Tac gia D</hoten>
+			<tuoi>40</tuoi>
+			<diachi>Quang Ninh</diachi>
+			<dienthoai>036-631-0685</dienthoai>
+		</tacgia>
+		<tacgia>
+			<hoten>Tac gia E</hoten>
+			<tuoi>45</tuoi>
+			<diachi>Ha Noi</diachi>
+			<dienthoai>036-631-0685</dienthoai>
+		</tacgia>
+		<tacgia>
+			<hoten>Tac gia F</hoten>
+			<tuoi>40</tuoi>
+			<diachi>Hai Phong</diachi>
+			<dienthoai>036-631-0685</dienthoai>
+		</tacgia>
+	</cuonsach>
+</dscuonsach>
