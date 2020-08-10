@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bangdiem>
+  <sinhvien masv="sv001" monhoc="mon hoc 1">
+    <stt>1</stt>
+    <hoten>Vu Van Hung</hoten>
+    <diemlan1>10</diemlan1>
+    <diemlan2>10</diemlan2>
+  </sinhvien>
+  <sinhvien masv="sv003" monhoc="mon hoc 3">
+    <stt>3</stt>
+    <hoten>Vu Dinh Hung</hoten>
+    <diemlan1>7</diemlan1>
+    <diemlan2>7</diemlan2>
+  </sinhvien>
+  <sinhvien masv="sv004" monhoc="mon hoc 4">
+    <stt>4</stt>
+    <hoten>Vo Van Hung</hoten>
+    <diemlan1>6</diemlan1>
+    <diemlan2>10</diemlan2>
+  </sinhvien>
+</bangdiem>

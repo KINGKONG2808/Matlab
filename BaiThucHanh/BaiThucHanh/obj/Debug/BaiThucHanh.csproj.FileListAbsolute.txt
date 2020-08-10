@@ -1,0 +1,10 @@
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.exe.config
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.exe
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.pdb
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csprojAssemblyReference.cache
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.Form1.resources
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.Properties.Resources.resources
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.GenerateResource.cache
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.exe
+C:\Users\vuhung\source\repos\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.pdb
