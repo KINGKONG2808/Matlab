@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cuonhd>
+  <hoadon mahd="001" ngayban="2017-05-21">
+    <khachhang>
+      <tenkh>Vu Van Hung</tenkh>
+      <diachi>Thai Binh</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="002" ngayban="2017-05-22">
+    <khachhang>
+      <tenkh>Vu Van Hung 2</tenkh>
+      <diachi>Thai Binh 2</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="003" ngayban="2017-05-22">
+    <khachhang>
+      <tenkh>Vu Thi Hung</tenkh>
+      <diachi>Hung Ha</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="004" ngayban="2017-05-23">
+    <khachhang>
+      <tenkh>Vu Dinh Hung</tenkh>
+      <diachi>Tien Duc</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="005" ngayban="2017-05-23">
+    <khachhang>
+      <tenkh>Vu Thanh Hung</tenkh>
+      <diachi>Trung Thuong</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="006" ngayban="2017-05-23">
+    <khachhang>
+      <tenkh>Vu Thanh Hung</tenkh>
+      <diachi>Trung Thuong</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="007" ngayban="2017-05-23">
+    <khachhang>
+      <tenkh>Vu Thanh Hung</tenkh>
+      <diachi>Trung Thuong</diachi>
+    </khachhang>
+  </hoadon>
+  <hoadon mahd="008" ngayban="2017-05-24">
+    <khachhang>
+      <tenkh>Vu Thanh Hung</tenkh>
+      <diachi>Trung Thuong</diachi>
+    </khachhang>
+  </hoadon>
+</cuonhd>

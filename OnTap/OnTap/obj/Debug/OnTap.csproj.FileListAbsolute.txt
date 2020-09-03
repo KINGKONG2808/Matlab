@@ -1,0 +1,10 @@
+C:\Users\vuhung\source\repos\OnTap\OnTap\bin\Debug\OnTap.exe.config
+C:\Users\vuhung\source\repos\OnTap\OnTap\bin\Debug\OnTap.exe
+C:\Users\vuhung\source\repos\OnTap\OnTap\bin\Debug\OnTap.pdb
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.csprojAssemblyReference.cache
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.Form1.resources
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.Properties.Resources.resources
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.csproj.GenerateResource.cache
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.exe
+C:\Users\vuhung\source\repos\OnTap\OnTap\obj\Debug\OnTap.pdb
